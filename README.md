@@ -20,6 +20,11 @@ Biztos hogy leheten, de bonyolúlt. Nem egyszerű ezt lekódolni, úgyhogy ilyen
 ## Ismert hibák:
 Biztos van :)
 
-## Itt tölthed le:
+## _Itt töltheted le:_
+
+## v1.1.17
+[https://drive.google.com/file/d/1U6eq2ujCAy-GKdvAeC9kjLajwCLOwAxJ/view?usp=drive_link](https://drive.google.com/file/d/1U6eq2ujCAy-GKdvAeC9kjLajwCLOwAxJ/view?usp=drive_link)
+
+## v1.0.17
 [https://drive.google.com/file/d/1iXBtM-tnIN0FGkPqYizZRghn1hl85S51/view?usp=drive_link](https://drive.google.com/file/d/1iXBtM-tnIN0FGkPqYizZRghn1hl85S51/view?usp=drive_link)
 
