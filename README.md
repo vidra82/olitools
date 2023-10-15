@@ -1,6 +1,6 @@
 # OliTools
 
-![OliTools](images/olitools_main.png)
+![OliTools](images/olitools_v1.1.17.png)
 
 ## Mi ez?
 
